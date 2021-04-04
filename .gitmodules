@@ -1,0 +1,3 @@
+[submodule "subrepo3"]
+	path = subrepo3
+	url = http://github.com/klaxalk/subrepo3
